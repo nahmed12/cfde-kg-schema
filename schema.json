@@ -92,8 +92,8 @@
     "header": {
         "title": "CFDE SNKG",
         "icon": {
-            "src": "https://github.com/nahmed12/cfde-kg-schema/blob/main/images/CFDE_WORKBENCH_LOGO.png",
-            "favicon": "https://github.com/nahmed12/cfde-kg-schema/blob/main/images/CFDE_WORKBENCH_LOGO.png",
+            "src": "https://raw.githubusercontent.com/nahmed12/cfde-kg-schema/main/images/CFDE_WORKBENCH_LOGO.png",
+            "favicon": "https://raw.githubusercontent.com/nahmed12/cfde-kg-schema/main/images/CFDE_WORKBENCH_LOGO.png",
             "alt": "CFDE logo",
             "key": "cfde_logo",
             "width": 100,
