@@ -21,6 +21,11 @@
                     "label": "affiliation",
                     "text": "${affiliation}",
                     "type": "text"
+                },
+                {
+                    "label": "role",
+                    "text": "${role}",
+                    "type": "text"
                 }
             ],
             "relation": [],
@@ -32,8 +37,8 @@
         {
             "node": "Affiliation",
             "example": [
-                "GM Kids First",
-                "Metabolomics"
+                "R03",
+                "4DN"
             ],
             "display": [
                 {
