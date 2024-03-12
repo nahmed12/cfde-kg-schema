@@ -1,14 +1,14 @@
 {
     "nodes": [
         {
-            "node": "Researcher",
+            "node": "Member",
             "example": [
                 "Chris Kinsinger",
-                "Avi Ma'ayan"
+                "George Papanicolaou"
             ],
             "display": [
                 {
-                    "label": "Researcher ID",
+                    "label": "Member ID",
                     "text": "${id}",
                     "type": "text"
                 },
@@ -62,7 +62,7 @@
     "edges": [
         {
             "match": [
-                "Researcher Affiliation"
+                "Member Affiliation"
             ],
             "selected": true,
             "display": [
