@@ -28,15 +28,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "Orcid ID",
-                    "text": "${Orcid ID}",
+                    "label": "Orcid_ID",
+                    "text": "${Orcid_ID}",
                     "type": "text"
                 }
             ],
             "relation": [],
             "search": [
                 "id",
-                "label", 
+                "label",
                 "role"
             ]
         },
