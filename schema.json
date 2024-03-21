@@ -26,20 +26,24 @@
                     "label": "role",
                     "text": "${role}",
                     "type": "text"
+                },
+                {
+                    "label": "Orcid ID",
+                    "text": "${Orcid ID}",
+                    "type": "text"
                 }
             ],
             "relation": [],
             "search": [
                 "id",
-                "label",
-                "role"
+                "label"
             ]
         },
         {
             "node": "Affiliation",
             "example": [
-                "R03",
-                "4DN"
+                "HuBMAP",
+                "R03"
             ],
             "display": [
                 {
